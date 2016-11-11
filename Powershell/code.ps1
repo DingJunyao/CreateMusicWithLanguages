@@ -1,5 +1,5 @@
-# Source: ÀÏ±íÇ¡¸ú½ðÊ¥@bilibili http://www.bilibili.com/video/av6995937/ http://pan.baidu.com/s/1o8zxceu http://pan.baidu.com/s/1i57EIsX
-# Modefied by DingJunyao
+# Source: è€è¡¨æ°è·Ÿé‡‘åœ£@bilibili http://www.bilibili.com/video/av6995937/ http://pan.baidu.com/s/1o8zxceu http://pan.baidu.com/s/1i57EIsX
+# Modified by DingJunyao
 $notes0 = write-output 4C5 4C5 4G5 4G5 4A5 4A5 2G5
 # The note is formed with a one-digit number(1~9) to show the duration of it; 1=>whole note 2=>minim 3=>Dotted quarter note 4=>quarter note 8=>quaver
 # a note represented as "C", "F#", etc..(without quotes)
